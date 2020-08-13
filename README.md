@@ -10,9 +10,9 @@
 - /images/ages/transiting 转变期纹饰切图
 - /images/ages/updating 更新期纹饰切图
 
-| 时期           | 分类 | 编号  | 切图进度 | 矢量化进度 |
+| 时期           | 分类 | 编号  | 1. 切图 | 2. 矢量化 |
 |----------------|---------------|----------------|-----------|-----------|
-| 育成期 | 兽面纹  | I-AF-L1 |  [ ] ![Alt text](images/ages/incubating/I-AF-L1.png?raw=true "Title")| - [ ] |
+| 育成期 | 兽面纹  | I-AF-L1 | <ul><li>[x] Done</li></ul>  <img src="images/ages/incubating/I-AF-L1.png" alt="I-AF-L1 Pattern" width="200"/>| <ul><li>[ ] Undone</li></ul> |
 
 编号方式如下：
 
